@@ -29,24 +29,3 @@ abilities, and I hope we can collaborate.
     
   </p>
 
-<!--START_SECTION:waka-->
-name: Waka Readme
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-
-jobs:
-  update-readme:
-    name: zombox
-    runs-on: ubuntu-latest
-    steps:
-      - uses: zombox0633/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.waka_9842a259-dc8e-4fcc-8707-4c18e5fbbc83 }}
-          SHOW_TITLE: true
-          BLOCKS: ->
-          TIME_RANGE: all_time
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: true
-<!--END_SECTION:waka-->
