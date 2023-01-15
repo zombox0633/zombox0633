@@ -29,4 +29,7 @@ abilities, and I hope we can collaborate.
     
   </p>
 
+## ⌛WakaTime
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
