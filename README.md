@@ -33,10 +33,12 @@ abilities, and I hope we can collaborate.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   20 hrs 36 mins  ███████████████████████▓░   94.88 %
-Vue.js       51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-CSS          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+TypeScript   22 hrs 56 mins  ███████████████████████▓░   95.13 %
+CSS          21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+TSConfig     19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Bash         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+JavaScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
