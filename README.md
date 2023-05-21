@@ -8,8 +8,8 @@ abilities, and I hope we can collaborate.
 
 ## 🎃 About Me
 
-- 🌱 I'm currently learning more about Javascript and Typescript.
-- 🦘 The next step in learning I want to know more about Docker.
+- 🌱 I'm currently learning more about React Typescript.
+- 🦘 The next step in learning I want to know more about Docker and Vue Typescript.
 - 🎓 Bachelor's Degree in Computer Engineering at RMUTT.
 - 📫 How to reach me: chayathorn.meesil@gmail.com
 
@@ -27,6 +27,13 @@ abilities, and I hope we can collaborate.
     <img src="https://img.shields.io/badge/React-3B4248?style=for-the-badge&logo=react" />
     <img src="https://img.shields.io/badge/Vue-3B4248?style=for-the-badge&logo=Vue.js&logoColor=#4FC08D" />
     
+  </p>
+- CSS Libraries
+  <p>
+  
+    <img src="https://img.shields.io/badge/tailwindcss-3B4248?style=for-the-badge&logo=tailwindcss" />
+    <img src="https://img.shields.io/badge/styledComponents-7a8085?style=for-the-badge&logo=styled-components" />
+
   </p>
 
 ## ⌛WakaTime
