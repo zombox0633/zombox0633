@@ -1,7 +1,7 @@
 # Hi, I'm Earth 👋🏽🌎
 Hello, my name Chayathron, I'm interested in
 working as a Front-end developer.
-Having experience in Docker, Git, JavaScript,
+Having experience in nodeJS, Git, JavaScript,
 and React. I'd like to develop website design
 abilities, and I hope we can collaborate.
 
@@ -9,7 +9,7 @@ abilities, and I hope we can collaborate.
 ## 🎃 About Me
 
 - 🌱 I'm currently learning more about React Typescript.
-- 🦘 The next step in learning I want to know more about Docker and Vue Typescript.
+- 🦘 The next step in learning I want to know more about nodeJS and Vue Typescript.
 - 🎓 Bachelor's Degree in Computer Engineering at RMUTT.
 - 📫 How to reach me: chayathorn.meesil@gmail.com
 
