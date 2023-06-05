@@ -39,12 +39,12 @@ abilities, and I hope we can collaborate.
 ## ⌛WakaTime
 <!--START_SECTION:waka-->
 
-```text
-JavaScript   13 hrs 48 mins  ██████████████████████▓░░   90.37 %
-Vue.js       50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-TypeScript   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-C            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+```txt
+JavaScript   12 hrs 52 mins  ███████████████████████▓░   95.31 %
+JSON         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+HTML         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
