@@ -19,6 +19,7 @@ abilities, and I hope we can collaborate.
 
     <img src="https://img.shields.io/badge/JavaScript-3B4248?style=for-the-badge&logo=JavaScript" />
     <img src="https://img.shields.io/badge/typescript-3C5E95?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-3B4248?style=for-the-badge&logo=node.js" />
 
   </p>
 - Framework
