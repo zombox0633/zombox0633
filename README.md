@@ -9,7 +9,7 @@ abilities, and I hope we can collaborate.
 ## 🎃 About Me
 
 - 🌱 I'm currently learning more about React Typescript.
-- 🦘 The next step in learning I want to know more about Java
+- 🦘 The next step in learning I want to know more about Java.
 - 🎓 Bachelor's Degree in Computer Engineering at RMUTT.
 - 📫 How to reach me: chayathorn.meesil@gmail.com
 
