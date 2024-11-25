@@ -78,11 +78,11 @@ abilities, and I hope we can collaborate.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   28 hrs 29 mins  ██████████████████████▒░░   89.36 %
-JavaScript   2 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-JSON         46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-Markdown     16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-CSS          9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+TypeScript   14 hrs 8 mins   ███████████████░░░░░░░░░░   59.82 %
+JavaScript   7 hrs 17 mins   ███████▓░░░░░░░░░░░░░░░░░   30.84 %
+JSON         1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+TSConfig     16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 ```
 
 <!--END_SECTION:waka-->
