@@ -46,6 +46,7 @@ abilities, and I hope we can collaborate.
     <img src="https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
     <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="firebase" />
     <img src="https://img.shields.io/badge/prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" alt="prisma" />
+    <img src="https://img.shields.io/badge/mongoDB-001e2b.svg?style=for-the-badge&logo=mongodb&logoColor=00ed64" alt="mongoDB" />
 
   </p>
 - Development Tools
