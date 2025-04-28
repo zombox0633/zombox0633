@@ -79,9 +79,8 @@ abilities, and I hope we can collaborate.
 <!--START_SECTION:waka-->
 
 ```txt
-Go         10 hrs 41 mins  ██████████████████░░░░░░░   71.76 %
-Markdown   4 hrs 12 mins   ███████░░░░░░░░░░░░░░░░░░   28.23 %
-Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Markdown   7 hrs 31 mins   █████████████▒░░░░░░░░░░░   53.62 %
+Go         6 hrs 30 mins   ███████████▓░░░░░░░░░░░░░   46.38 %
 ```
 
 <!--END_SECTION:waka-->
